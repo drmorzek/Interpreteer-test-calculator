@@ -9,7 +9,7 @@ exports.calculate = function (input) {
         let out
         out = lexer(input);
         out = parser(out);
-        out= evaluate(out);
+        out = evaluate(out);
         return out;
     } catch (e) {
         return e;
