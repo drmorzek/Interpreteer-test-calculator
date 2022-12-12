@@ -1,0 +1,16 @@
+3
+2 ^ 8
+(12 % 7) * (3 + 2)
+19 / -9 
+
+hoursPerDay = 24
+minutesPerHour = 60
+minutesPerDay = minutesPerHour * hoursPerDay
+minutesPerDay
+minutesPerDay * 60
+
+toDegrees(radians) = radians * 180 / pi
+toDegrees(2 * pi)
+
+cylinderVolume(r, h) = pi * r ^ 2 * h
+cylinderVolume(2, 4)
